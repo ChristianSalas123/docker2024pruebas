@@ -1,0 +1,6 @@
+#acceder
+admin/sonar
+sonar
+
+Token:
+squ_2933a44d9498f9529656e08496084062a2925efc
